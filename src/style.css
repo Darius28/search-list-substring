@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+table,
+thead,
+td {
+  border: 1px solid black;
+}
+
+.tables-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.result-table {
+  height: fit-content;
+}
